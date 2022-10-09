@@ -13,7 +13,7 @@ ___
 
 ### Summary
 
-I am the graphic designer with over 8 years experience. Esspecialy in brand identity and artisitc posters. I want to transform into a front-end developer, because I realised that being developer with design skills will allow me to develop myself in the new direction. I am fascinated by complexity of front-end world, and still growing possibilities of creation in that universe. It's important to me to challenge myself often and gain new knowledge. As I remember I was always curious about Computer Science, Mathematics and Art.I think that combination goes great with Front-End Development. 
+I am the graphic designer with over 8 years experience. Especialy in brand identity and artisitc posters. I want to transform into a front-end developer, because I realised that being developer with design skills will allow me to develop myself in the new direction. I am fascinated by complexity of front-end world, and still growing possibilities of creation in that universe. It's important to me to challenge myself often and gain new knowledge. As I remember I was always curious about Computer Science, Mathematics and Art.I think that combination goes great with Front-End Development. 
 In view of this, I decided to save some money, quit my graphic job and focus on learning process.
 
 
