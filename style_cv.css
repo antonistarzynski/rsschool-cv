@@ -45,6 +45,7 @@ header {
 header h1 {
     font-size: 3.5em;
     line-height: 1.15em;
+    margin: 0;
 }
 
 header a {
